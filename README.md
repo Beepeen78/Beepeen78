@@ -51,9 +51,6 @@ Building production pipelines that ingest, transform, score, and serve — end-t
 - B.Sc. Computer Science – Apex College, Nepal  
 - Former Application Developer → Real client-facing integration experience
 
-### One-Click Resume (Dec 2025 — ATS-Optimized)
-[![Download Resume](https://img.shields.io/badge/Resume-Dec2025-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/Beepeen78/Beepeen78/raw/main/Bipin-Pandey-Resume-Dec2025.pdf)
-
 <br>
 
 ### Let’s Connect!  
