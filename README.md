@@ -3,7 +3,7 @@
 # Bonjour! 👋  
 I'm Bipin Pandey
 
-**Google Cloud Data & AI Engineer** | Calgary, AB (Open to hybrid/remote)  
+**Google Cloud Data & AI Engineer** | Toronto, ON (Open to hybrid/remote)  
 🔗 https://www.linkedin.com/in/bipin-pandey-613505377/ • bipinpandey24586@gmail.com  
 
 <br>
@@ -29,8 +29,6 @@ I'm Bipin Pandey
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
 
 **Data Science & AI:**  
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
