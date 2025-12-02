@@ -1,16 +1,16 @@
 <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/main/your-photo.jpg?raw=true" width="180" align="left" style="border-radius:50%; margin-right: 20px; border: 5px solid #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
 
 # Bonjour! 👋  
-I'm [Your Full Name]
+I'm Bipin Pandey
 
 **Google Cloud Data & AI Engineer** | Calgary, AB (Open to hybrid/remote)  
-🔗 [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) • your.email@gmail.com  
+🔗 https://www.linkedin.com/in/bipin-pandey-613505377/ • bipinpandey24586@gmail.com  
 
 <br>
 
 ### About Me 😉
-🎓 Post-Graduate Diploma in Big Data Analytics – [Your College], Canada  
-🎓 Bachelor of Science in Computer Science – [Your University], [Country]  
+🎓 Post-Graduate Diploma in Big Data Analytics – Lambton college, Canada  
+🎓 Bachelor of Science in Computer Science – Pokhara University, Canada  
 🤖 Passionate about building scalable data & AI solutions on Google Cloud  
 🚀 Love turning raw data into real business impact  
 🌍 Always excited to connect, collaborate, and learn from others  
@@ -18,17 +18,11 @@ I'm [Your Full Name]
 💡 Enjoy mentoring juniors and contributing to open-source  
 
 ### What I’m Up To These Days 🚀
-- 🔥 JOB HUNT – actively applying for Google Cloud Data & AI Engineer roles (Slalom Calgary & beyond!)  
+- 🔥 JOB HUNT – actively applying for Google Cloud Data & AI Engineer roles   
 - ☁️ Building end-to-end MLOps pipelines with Vertex AI, BigQuery, Dataflow  
 - 🛠️ Migrating legacy systems to modern lakehouses (BigQuery + dbt + Looker)  
 - 📊 Preparing for Google Professional Machine Learning Engineer certification  
 - 🤝 Networking and helping others with BigQuery performance tips  
-
-### Honors & Awards 🏅
-- 🏆 Google Cloud Professional Data Engineer – Certified 2024  
-- 🥇 1st Place – National Data Engineering Hackathon 2024  
-- 🌟 Dean’s List – Big Data Analytics Program (Top 5%)  
-- 🚀 Finalist – Google Cloud Next Gen Challenge  
 
 ### Tech Stack 🛠️
 
@@ -49,7 +43,6 @@ I'm [Your Full Name]
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 **Tools & Platforms:**  
