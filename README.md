@@ -46,10 +46,9 @@ Building production pipelines that ingest, transform, score, and serve — end-t
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-652C90?style=flat&logo=looker&logoColor=white)
 
-### Education & Certs
+### Education & experience
 - Post-Graduate Diploma in Big Data Analytics – Lambton College, Toronto  
 - B.Sc. Computer Science – Apex College, Nepal  
-- Google Cloud Professional Data Engineer → In Progress (Dec 2025 target)  
 - Former Application Developer → Real client-facing integration experience
 
 ### One-Click Resume (Dec 2025 — ATS-Optimized)
