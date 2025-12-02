@@ -8,55 +8,55 @@ I'm Bipin Pandey
 
 <br>
 
-### About Me 😉
-🎓 Post-Graduate Diploma in Big Data Analytics – Lambton college, Canada  
-🎓 Bachelor of Science in Computer Science – Pokhara University, Canada  
-🤖 Passionate about building scalable data & AI solutions on Google Cloud  
-🚀 Love turning raw data into real business impact  
-🌍 Always excited to connect, collaborate, and learn from others  
-📚 Believer in “Knowledge shared is power multiplied”  
-💡 Enjoy mentoring juniors and contributing to open-source  
+### Targeting Right Now 🔥
+**Data Engineer → MLOps Engineer → Analytics Engineer → Python Backend → Junior ML/AI Engineer**  
+Building production pipelines that ingest, transform, score, and serve — end-to-end, 24/7.
 
-### What I’m Up To These Days 🚀
-- 🔥 JOB HUNT – actively applying for Google Cloud Data & AI Engineer roles   
-- ☁️ Building end-to-end MLOps pipelines with Vertex AI, BigQuery, Dataflow  
-- 🛠️ Migrating legacy systems to modern lakehouses (BigQuery + dbt + Looker)  
-- 📊 Preparing for Google Professional Machine Learning Engineer certification  
-- 🤝 Networking and helping others with BigQuery performance tips  
+### Live Projects (Click & Try — All Public & Production-Ready)
 
-### Tech Stack 🛠️
+| Project                                      | Role Fit                                      | Key Tech Stack                                              | Live / Repo |
+|----------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|-------------|
+| **Credit Card Fraud Detection Pipeline**     | Data Engineer + MLOps + Analytics Engineer    | LightGBM • Streamlit • BigQuery • Snowflake • Model Calibration | [Repo](https://github.com/Beepeen78/card-fraud-detection-pipeline) |
+| **News Summarizer with Hugging Face**        | Junior ML/AI + MLOps + Python Backend         | Transformers • BART/T5 • PyTorch • Streamlit • Smart Chunking + Caching | [Live Demo](https://news-summarizing-project-g2ks35nieplfrzvwpozfzi.streamlit.app/) • [Repo](https://github.com/Beepeen78/news-summarizing-project) |
+| **E-commerce ETL Data Pipeline**             | Data Engineer + Analytics Engineer            | Python • Pandas • SQL • BigQuery • dbt • Airflow-ready      | [Repo](https://github.com/Beepeen78/E-commerce-ETL-data-pipeline) |
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+### Role-Specific Skills (What Recruiters Filter For)
 
-**Data Science & AI:**  
+**Data Engineering**  
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-34A853?style=flat&logo=googlecloud&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-FFB300?style=flat&logo=googlecloud&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-652C90?style=flat&logo=looker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-3F4A73?style=flat&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-
-**Cloud & DevOps:**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Tools & Platforms:**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**MLOps & ML Deployment**  
+![LightGBM](https://img.shields.io/badge/LightGBM-0A6CFF?style=flat)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4C59?style=flat&logo=streamlit&logoColor=white)
+![Model Calibration](https://img.shields.io/badge/Model_Calibration-4CAF50?style=flat)
+
+**Python Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Analytics Engineering**  
+![Power BI](https://img.shields.io/badge/Power_BI-F28E1F?style=flat&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-652C90?style=flat&logo=looker&logoColor=white)
+
+### Education & Certs
+- Post-Graduate Diploma in Big Data Analytics – Lambton College, Toronto  
+- B.Sc. Computer Science – Apex College, Nepal  
+- Google Cloud Professional Data Engineer → In Progress (Dec 2025 target)  
+- Former Application Developer → Real client-facing integration experience
+
+### One-Click Resume (Dec 2025 — ATS-Optimized)
+[![Download Resume](https://img.shields.io/badge/Resume-Dec2025-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/Beepeen78/Beepeen78/raw/main/Bipin-Pandey-Resume-Dec2025.pdf)
 
 <br>
 
-### One-Click Resume  
-[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YOURUSERNAME/YOURUSERNAME/raw/main/YourName-Resume-Dec2025.pdf)
-
-<br>
-
-### Wanna know more?  
-Always happy to chat about Google Cloud, data engineering, or career advice!  
-Feel free to reach out — let’s connect! 🤝
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=brightgreen" alt="Profile views" />
+### Let’s Connect!  
+Live demos, pipeline walkthroughs, or quick Calgary coffee chat — always open!  
+Especially interested in Data Engineer / MLOps roles
