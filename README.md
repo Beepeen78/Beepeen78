@@ -58,5 +58,5 @@ Building production pipelines that ingest, transform, score, and serve — end-t
 <br>
 
 ### Let’s Connect!  
-Live demos, pipeline walkthroughs, or quick Calgary coffee chat — always open!  
+Live demos, pipeline walkthroughs, or quick coffee chat — always open!  
 Especially interested in Data Engineer / MLOps roles
