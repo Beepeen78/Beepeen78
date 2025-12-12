@@ -94,8 +94,6 @@ JWT | OAuth2 | bcrypt | User Authorization
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beepeen78&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beepeen78&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6)
 
 </div>
@@ -107,7 +105,7 @@ JWT | OAuth2 | bcrypt | User Authorization
 Open to discussing new projects, collaboration opportunities, or technical challenges!
 
 **Email:** [bipinpandey24586@gmail.com](mailto:bipinpandey24586@gmail.com)  
-**LinkedIn:** [linkedin.com/in/bipinpandey](https://www.linkedin.com/in/bipinpandey)  
+**LinkedIn:** [linkedin.com/in/bipin-pandey-613505377/](https://www.linkedin.com/in/bipin-pandey-613505377/))  
 **GitHub:** [github.com/Beepeen78](https://github.com/Beepeen78)
 
 ---
