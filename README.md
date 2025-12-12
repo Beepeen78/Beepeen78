@@ -135,9 +135,7 @@ AI-powered application for generating professional headshots using advanced imag
 ## GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beepeen78&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6)
-
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beepeen78&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6)
 
 </div>
