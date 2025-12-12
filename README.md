@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Google Cloud Certified Data & AI Engineer** passionate about building scalable data solutions, machine learning pipelines, and robust backend systems. I specialize in transforming complex data challenges into production-ready solutions using modern cloud technologies and best practices.
+I'm a **Backend & AI Engineer** passionate about building scalable data solutions, machine learning pipelines, and robust backend systems. I specialize in transforming complex data challenges into production-ready solutions using modern technologies and best practices.
 
 **Current Focus Areas:**
 - 🔧 **Data Engineering**: Building robust ETL/ELT pipelines and data architectures
@@ -122,29 +122,6 @@ An AI-powered application for generating professional headshots using advanced i
 - 🖼️ High-resolution output generation
 
 **Tech Stack:** Python | TensorFlow/PyTorch | OpenCV | GANs | Image Processing
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beepeen78&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beepeen78&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Beepeen78&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-- ✅ **Google Cloud Professional Data Engineer**
-- ✅ **Google Cloud Professional Machine Learning Engineer** (if applicable)
-- 📝 Active contributor to open-source projects
-- 🎓 Continuous learning in MLOps and cloud-native technologies
 
 ---
 
