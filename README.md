@@ -148,7 +148,7 @@ AI-powered application for generating professional headshots using advanced imag
 
 Seeking opportunities in Data Engineering, Machine Learning Engineering, or Backend Development roles. Open to discussing projects, collaboration, or technical challenges.
 
-**Email:** [bipinpandey24586@gmail.com](mailto:bipinpandey244586@gmail.com)  
+**Email:** [bipinpandey244586@gmail.com](mailto:bipinpandey244586@gmail.com)  
 **LinkedIn:** [linkedin.com/in/bipinpandey](linkedin.com/in/bipin-pandey-613505377/)  
 **GitHub:** [github.com/Beepeen78](https://github.com/Beepeen78)
 
