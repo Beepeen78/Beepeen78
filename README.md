@@ -4,7 +4,7 @@
 
 Toronto, ON | Open to Hybrid/Remote Opportunities
 
-[LinkedIn](https://www.linkedin.com/in/bipinpandey) • [Email](mailto:bipinpandey24586@gmail.com) • [GitHub](https://github.com/Beepeen78)
+[LinkedIn](linkedin.com/in/bipin-pandey-613505377/) • [Email](mailto:bipinpandey24586@gmail.com) • [GitHub](https://github.com/Beepeen78)
 
 ---
 
