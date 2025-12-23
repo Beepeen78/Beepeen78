@@ -90,16 +90,6 @@ JWT | OAuth2 | bcrypt | User Authorization
 
 ---
 
-## GitHub Statistics 📊
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beepeen78&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0366d6)
-
-</div>
-
----
-
 ## Contact 📫
 
 Open to discussing new projects, collaboration opportunities, or technical challenges!
