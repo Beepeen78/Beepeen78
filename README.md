@@ -112,10 +112,6 @@ Open to discussing new projects, collaboration opportunities, or technical chall
 
 <div align="center">
 
-**Thanks for visiting! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Beepeen78&color=0366d6&style=flat-square)
-
-*Last updated: December 2024*
+**Thanks for visiting! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!*
 
 </div>
