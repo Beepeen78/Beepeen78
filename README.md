@@ -94,7 +94,7 @@ JWT | OAuth2 | bcrypt | User Authorization
 
 Open to discussing new projects, collaboration opportunities, or technical challenges!
 
-**Email:** [bipinpandey24586@gmail.com](mailto:bipinpandey24586@gmail.com)  
+**Email:** [bipinpandey244586@gmail.com](mailto:bipinpandey244586@gmail.com)  
 **LinkedIn:** [linkedin.com/in/bipin-pandey-613505377/](https://www.linkedin.com/in/bipin-pandey-613505377/))  
 **GitHub:** [github.com/Beepeen78](https://github.com/Beepeen78)
 
