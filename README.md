@@ -1,6 +1,6 @@
 # Hi, I'm Bipin Pandey 👋
 
-**Data Analyst | Python • SQL • Power BI | Open to Work in Toronto & Alberta**
+Data Analyst | Python • SQL • Power BI | Open to Work Across Canada
 
 ---
 
