@@ -1,107 +1,87 @@
-# Bonjour! 👋
+# Hi, I'm Bipin Pandey 👋
 
-I'm **Bipin Pandey**
-
----
-
-## About Me 😊
-
-🎓 **Post Graduate Diploma in Big Data Analytics** from Lambton College, Mississauga, Canada  
-💻 **Bachelor of Computer Science**  
-🤖 Passionate about Data Engineering, Machine Learning, and building scalable backend systems  
-🌍 Love connecting with new people, learning their stories, and collaborating on exciting projects  
-📚 Believer in "Knowledge is power. Knowledge shared is power multiplied."  
-🧑‍💻 Always eager to solve complex problems and build production-ready solutions  
-🤝 Open to discussing new opportunities, projects, or technical challenges  
+**Data Analyst | Python • SQL • Power BI | Open to Work in Toronto & Alberta**
 
 ---
 
-## What I'm Up To These Days 🚀
+## About Me
 
-🔍 **JOB HUNT JOB HUNT** 🔍  
-💼 Seeking opportunities in Data Engineering, Machine Learning Engineering, or Backend Development  
-🤖 Building end-to-end ML pipelines and data processing systems  
-🧠 Always learning—currently exploring advanced MLOps practices and cloud-native architectures  
-🌐 Exploring the latest in real-time data streaming and distributed systems  
-📊 Working on projects that showcase my skills in data engineering and ML  
-👨‍💻 Contributing to open-source projects and sharing knowledge  
+Data Analyst with a Postgraduate Certificate in Big Data Analytics 
+from Lambton College, Canada. I turn raw, messy datasets into clear 
+business insights and dashboards that drive real decisions.
 
----
-
-## Featured Projects 🚀
-
-### 💰 [Expense Tracker API](https://github.com/Beepeen78/expense_tracker)
-Production-ready RESTful API for personal expense management with JWT authentication, user authorization, and automated database migrations.
-
-**Tech Stack:** FastAPI | SQLAlchemy | MySQL | JWT | Alembic | Pydantic
+- 🎓 PG Certificate — Big Data Analytics, Lambton College, Mississauga
+- 💼 Skilled in SQL, Python (Pandas), Power BI, and Excel
+- 📍 Based in Toronto, ON — open to opportunities across Canada
+- 🇨🇦 Open Work Permit — no sponsorship required
+- 📫 bipinpandey244586@gmail.com
 
 ---
 
-### 🛒 [Multi-Service E-Commerce Platform](https://github.com/Beepeen78/Multi-service-ecommerce-platform)
-Scalable microservices-based e-commerce platform with distributed architecture, service discovery, and real-time processing.
+## What I Do
 
-**Tech Stack:** Microservices | Docker | Kubernetes | API Gateway | Message Queues
-
----
-
-### 🚨 [Card Fraud Detection Pipeline](https://github.com/Beepeen78/card-fraud-detection-pipeline)
-End-to-end ML pipeline for real-time credit card fraud detection with automated model training, evaluation, and deployment.
-
-**Tech Stack:** Python | Scikit-learn | XGBoost | Apache Kafka | MLflow | Docker
+- **Data Analysis** — EDA, data cleaning, trend analysis, KPI reporting
+- **SQL** — Complex queries, joins, aggregations, window functions
+- **Python** — Pandas, NumPy, Scikit-learn, data pipelines
+- **Visualization** — Power BI dashboards, Matplotlib, Seaborn
+- **Machine Learning** — Predictive modeling, fraud detection, NLP
 
 ---
 
-### 📰 [News Summarizing Project](https://github.com/Beepeen78/news-summarizing-project)
-NLP application for automatic news article summarization using transformer models with extractive and abstractive capabilities.
+## Featured Projects
 
-**Tech Stack:** Python | Transformers | BERT | GPT | NLTK | FastAPI
-
----
-
-### 📸 [Pro Headshot Generator](https://github.com/Beepeen78/pro-headshot)
-AI-powered application for generating professional headshots using advanced image generation and computer vision techniques.
-
-**Tech Stack:** Python | TensorFlow | PyTorch | OpenCV | GANs | Image Processing
+### 📊 E-Commerce Analytics Dashboard (Power BI)
+Built a 5-page Power BI dashboard analyzing $2M+ in sales data.
+Identified top revenue drivers, seasonal trends, and underperforming 
+product categories — adopted by 4 business teams.
+`Power BI` `DAX` `Power Query` `Data Modeling`
 
 ---
 
-## Tech Stack 🛠️
-
-### Languages:
-Python | SQL | JavaScript
-
-### Backend Development:
-FastAPI | Flask | RESTful APIs | Microservices
-
-### Data Science & ML:
-Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | XGBoost
-
-### Machine Learning & AI:
-NLP | BERT | Transformers | GANs | Computer Vision | MLflow
-
-### Database:
-MySQL | PostgreSQL | MongoDB | SQLAlchemy
-
-### DevOps & Infrastructure:
-Docker | Kubernetes | Git | Alembic | CI/CD
-
-### Authentication & Security:
-JWT | OAuth2 | bcrypt | User Authorization
+### 🔍 Data Cleaning & EDA Pipeline (Python)
+Processed 1M+ transaction records using Python and Pandas in 2 hours 
+vs 40 hours manually. Identified 12 data quality issues and 8 revenue 
+drivers with $500K+ estimated business impact.
+`Python` `Pandas` `NumPy` `EDA` `Data Quality`
 
 ---
 
-## Contact 📫
-
-Open to discussing new projects, collaboration opportunities, or technical challenges!
-
-**Email:** [bipinpandey244586@gmail.com](mailto:bipinpandey244586@gmail.com)  
-**LinkedIn:** [linkedin.com/in/bipin-pandey-613505377/](https://www.linkedin.com/in/bipin-pandey-613505377/))  
-**GitHub:** [github.com/Beepeen78](https://github.com/Beepeen78)
+### 🚨 Card Fraud Detection Pipeline (ML)
+Analyzed 284,000+ credit card transactions to identify fraud patterns. 
+Achieved 97% recall using XGBoost and LightGBM — uncovered fraud 
+concentrated in specific merchant categories and time windows.
+`Python` `XGBoost` `Scikit-learn` `MLflow` `Docker`
 
 ---
 
-<div align="center">
+### 📰 News Summarization — NLP
+Built NLP pipeline summarizing news articles using T5, BERT, and 
+Pegasus transformers. Deployed as interactive Streamlit application 
+for real-time summarization.
+`Python` `BERT` `Transformers` `Streamlit` `NLP`
 
-**Thanks for visiting! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!*
+---
 
-</div>
+## Tech Stack
+
+**Analytics & BI**
+`SQL` `Python` `Pandas` `NumPy` `Power BI` `Tableau` `Excel`
+
+**Machine Learning**
+`Scikit-learn` `XGBoost` `LightGBM` `MLflow` `BERT`
+
+**Engineering & Tools**
+`PostgreSQL` `MySQL` `Docker` `Git` `FastAPI` `Jupyter`
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipin_Pandey-blue)](https://www.linkedin.com/in/bipin-pandey-613505377/)
+[![GitHub](https://img.shields.io/badge/GitHub-Beepeen78-black)](https://github.com/Beepeen78)
+📧 bipinpandey244586@gmail.com
+
+---
+
+*Open to Data Analyst, BI Analyst, and Reporting Analyst 
+opportunities in Toronto, Calgary, Edmonton, or remote.*
