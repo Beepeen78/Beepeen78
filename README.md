@@ -111,18 +111,34 @@ Data Analyst with a **Postgraduate Certificate in Big Data Analytics** from Lamb
 <tr>
 <td width="50%" valign="top">
 
-### E-Commerce Analytics Dashboard (Power BI)
+### Northwind Sales Report (Power BI)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/Beepeen78/Northwindsalesreport)
 [![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white)](https://github.com/Beepeen78/Northwindsalesreport)
 
-Built a **5-page** Power BI dashboard analyzing **$2M+** in sales data. Identified top revenue drivers, seasonal trends, and underperforming product categories — adopted by **4 business teams**.
+**Northwind Traders** sales analysis: revenue trends, category and product performance, and year-over-year views. Ships **PBIX**, **PDF export**, and **readme previews** generated from the PDF so visitors see full visuals on GitHub.
 
-`Power BI` · `DAX` · `Power Query` · `Data modeling`
+`Power BI` · `DAX` · `Power Query` · `Semantic model`
 
-**[View repo →](https://github.com/Beepeen78/Northwindsalesreport)** · *[Global Electronics (Power BI)](https://github.com/Beepeen78/-Global_electronics)*
+**[View repo →](https://github.com/Beepeen78/Northwindsalesreport)**
 
 </td>
+<td width="50%" valign="top">
+
+### Global Electronics Analytics (Power BI)
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/Beepeen78/-Global_electronics)
+[![DAX](https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white)](https://github.com/Beepeen78/-Global_electronics)
+
+**Four-page** executive dashboard: KPIs, **monthly revenue** trends, **geographic** map and channel-style splits, **product** performance (scatter, pivot), and **customer** segments & top accounts. **Star-schema** model on CSV facts/dims, **exchange rates → USD**, custom theme, PDF + readme screenshots.
+
+`Power BI` · `DAX` · `Data modeling` · `CSV pipeline`
+
+**[View repo →](https://github.com/Beepeen78/-Global_electronics)**
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Data Cleaning & EDA Pipeline (Python)
@@ -137,8 +153,6 @@ Processed **1M+** transaction records using Python and Pandas in **2 hours** vs 
 **[View repo →](https://github.com/Beepeen78/E-commerce-olist-data-pipeline)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Card Fraud Detection Pipeline (ML)
@@ -152,7 +166,9 @@ Analyzed **284,000+** credit card transactions to identify fraud patterns. Achie
 **[View repo →](https://github.com/Beepeen78/card-fraud-detection-pipeline)**
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### News Summarization — NLP
 
