@@ -6,7 +6,7 @@
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Across%20Canada-22c55e?style=for-the-badge)](https://github.com/Beepeen78)
 [![Email](https://img.shields.io/badge/Email-bipinpandey244586%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bipinpandey244586@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipinpandey/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipin-pandey-613505377/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beepeen78)
 
 *Postgraduate Certificate — **Big Data Analytics**, Lambton College (Mississauga)*  
@@ -168,7 +168,7 @@ Analyzed **284,000+** credit card transactions to identify fraud patterns. Achie
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### News Summarization — NLP
 
@@ -179,6 +179,15 @@ Built NLP pipeline summarizing news articles using **T5**, **BERT**, and **Pegas
 `Python` · `BERT` · `Transformers` · `Streamlit` · `NLP`
 
 **[View repo →](https://github.com/Beepeen78/news-summarizing-project)**
+
+</td>
+<td width="50%" valign="top">
+
+### More on GitHub
+
+Pinned repos rotate — explore **Power BI**, Python pipelines, and coursework in one place.
+
+**[All repositories →](https://github.com/Beepeen78?tab=repositories)** · **[Portfolio repo →](https://github.com/Beepeen78/portfolio)**
 
 </td>
 </tr>
@@ -196,8 +205,6 @@ Toronto · Calgary · Edmonton · **Remote (Canada)**
 
 <div align="center">
 
-**Let’s connect** · [LinkedIn](https://www.linkedin.com/in/bipinpandey/) · [GitHub](https://github.com/Beepeen78) · [Email](mailto:bipinpandey244586@gmail.com)
-
-<sub>Update your LinkedIn URL above if your public profile slug is different.</sub>
+**Let’s connect** · [LinkedIn](https://www.linkedin.com/in/bipin-pandey-613505377/) · [GitHub](https://github.com/Beepeen78) · [Email](mailto:bipinpandey244586@gmail.com)
 
 </div>
